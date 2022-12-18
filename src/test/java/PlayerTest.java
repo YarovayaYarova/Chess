@@ -34,4 +34,9 @@ public class PlayerTest {
 
         Assertions.assertEquals(8, pieceHashMap.get("white_king").getSpot().getY() );
     }
+    @Test
+    public void test (){
+
+    }
+
 }
